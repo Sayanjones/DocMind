@@ -1,4 +1,4 @@
-# Document-Based Q&A Retrieval System
+# DocMind: Document-Based Q&A Retrieval System
 
 
 This repository contains the implementation of a **Document Q&A Application** that utilizes **LangChain**, **FAISS**, and **Google Generative AI Embeddings** for vector-based similarity search and document-based question answering.
